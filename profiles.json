@@ -64,7 +64,7 @@
 
     // Add custom color schemes to this array
     "schemes": [
-	  {
+    {
         "background" : "#000000",
         "black" : "#0C0C0C",
         "blue" : "#6060ff",
@@ -86,7 +86,7 @@
         "yellow" : "#bfbf00",
         "grey" : "#bfbfbf"
     }
-	],
+],
 
     // Add any keybinding overrides to this array.
     // To unbind a default keybinding, set the command to "unbound"
